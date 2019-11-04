@@ -16,3 +16,6 @@ img{
 .navbar-toggler-icon{
     color: white !important;
 }
+.navbar{
+    background: rgb(204, 50, 196);
+}
